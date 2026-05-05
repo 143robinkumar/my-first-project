@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1777999764,,"wq"
+|2,0,1778000107,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,54 @@
 # Registers:
 
 # File marks:
-'0  1  17  ~/my-first-project/index.html
-|4,48,1,17,1777999764,"~/my-first-project/index.html"
-'1  1  13  ~/my-first-project/index.html
-|4,49,1,13,1777999624,"~/my-first-project/index.html"
+'0  1  17  ~/about.html
+|4,48,1,17,1778000107,"~/about.html"
+'1  1  18  ~/index.html
+|4,49,1,18,1778000082,"~/index.html"
+'2  1  17  ~/my-first-project/index.html
+|4,50,1,17,1777999764,"~/my-first-project/index.html"
+'3  1  13  ~/my-first-project/index.html
+|4,51,1,13,1777999624,"~/my-first-project/index.html"
 
 # Jumplist (newest first):
+-'  1  17  ~/about.html
+|4,39,1,17,1778000107,"~/about.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1778000082,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1778000082,"~/index.html"
+-'  1  17  ~/my-first-project/index.html
+|4,39,1,17,1777999764,"~/my-first-project/index.html"
+-'  1  17  ~/my-first-project/index.html
+|4,39,1,17,1777999764,"~/my-first-project/index.html"
+-'  1  17  ~/my-first-project/index.html
+|4,39,1,17,1777999764,"~/my-first-project/index.html"
 -'  1  17  ~/my-first-project/index.html
 |4,39,1,17,1777999764,"~/my-first-project/index.html"
 -'  1  13  ~/my-first-project/index.html
 |4,39,1,13,1777999624,"~/my-first-project/index.html"
+-'  1  13  ~/my-first-project/index.html
+|4,39,1,13,1777999624,"~/my-first-project/index.html"
+-'  1  13  ~/my-first-project/index.html
+|4,39,1,13,1777999624,"~/my-first-project/index.html"
+-'  1  13  ~/my-first-project/index.html
+|4,39,1,13,1777999624,"~/my-first-project/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/about.html
+	*	1778000103	0
+	"	1	17
+	^	1	18
+	.	1	18
+	+	1	18
+
+> ~/index.html
+	*	1778000079	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/my-first-project/index.html
 	*	1777999762	0
